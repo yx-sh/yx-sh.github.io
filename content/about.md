@@ -20,7 +20,7 @@ Outside work, I read (mostly on logic and philosophy, contemporary Chinese liter
 ## About This Site
 
 
-I am planning this site as more of a place for me to motivate myself to learn new things and keep notes on what I learn, so that I can share knowledge and ideas with others and improve my writing skills. How-to tutorials, programming, notes on algorithms and data Structures, rationales and random thoughts in my life —all of that will live here.
+I am planning this site as more of a place for me to motivate myself to learn new things and keep notes on what I learn, so that I can share knowledge and ideas with others and improve my writing skills. How-to tutorials, programming, notes on algorithms and data structures, rationales and random thoughts in my life —all of that will live here.
 
 **Please note this is my personal website. My view's on this website are separate from my (potential) employer’s.**
 
