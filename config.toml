@@ -172,9 +172,7 @@ title = "Yuxi's"
 
 [languages.cn.params]
 author = "Yuxi Shen"
-info = ""Prospective Software Engineer 🤓", "Data Analyst 📊""
-description = "Sítio pessoal de João Ninguém"
-keywords = "blog,desenvolvedor,pessoal"
+info = [ " Prospective Software Engineer 🤓", "Data Analyst 📊" ]
 
 [[languages.cn.menu.main]]
 name = "关于我"
