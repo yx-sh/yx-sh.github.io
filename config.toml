@@ -172,7 +172,7 @@ title = "Yuxi's"
 
 [languages.cn.params]
 author = "Yuxi Shen"
-info = [ " Prospective Software Engineer 🤓", "Data Analyst 📊" ]
+info = [ " Business Analytics 💼", "Data Analytics 📊"  ]
 
 [[languages.cn.menu.main]]
 name = "关于我"
