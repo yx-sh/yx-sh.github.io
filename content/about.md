@@ -11,7 +11,7 @@ author = "Yuxi Shen"
 
 Firstly, I just wanted to say “Hello” and “Thank you” for stopping by.
 
-My name is Yuxi (she/her). I’m a graduated student in logic and philosophy of science, and I strive to become a data analyst or a software engineer. I am interested in making data work, whether that means collection, visualization, modeling, or deployment, and studying how to develop a variety of applications. My main areas of focus are data analysis(Python, SQL, and R) and backend development (Java). 
+My name is Yuxi (she/her). I’m a graduated student in logic and philosophy of science. I am interested in making data work, whether that means collection, visualization, modeling, or deployment, and studying how to develop a variety of applications. My main areas of focus are data analysis(Python, SQL, and R) and backend development (Java). 
 
 Outside work, I read (mostly on logic and philosophy, contemporary Chinese literature), play games like Kerbal Space Program, Octopath Traveler, and Destiny 2. I’m also interested in watching football and the crypto asset industry.
 
